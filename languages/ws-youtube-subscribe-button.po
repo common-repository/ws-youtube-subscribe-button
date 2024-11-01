@@ -1,0 +1,72 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: WS Youtube Subscribe Button\n"
+"POT-Creation-Date: 2016-06-21 14:33+0530\n"
+"PO-Revision-Date: 2016-06-21 14:33+0530\n"
+"Last-Translator: \n"
+"Language-Team: Web Shouter <support@webshouter.net>\n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.7\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: ws-youtube-subscribe-button.php:20
+msgid "WS Youtube Subscribe Button"
+msgstr ""
+
+#: ws-youtube-subscribe-button.php:23
+msgid "Add youtube subscribe button to your blog."
+msgstr ""
+
+#: ws-youtube-subscribe-button.php:117
+msgid "Follow Me"
+msgstr ""
+
+#: ws-youtube-subscribe-button.php:126
+msgid "Title:"
+msgstr ""
+
+#: ws-youtube-subscribe-button.php:131
+msgid "Channel Name or ID:"
+msgstr ""
+
+#: ws-youtube-subscribe-button.php:136
+msgid "Layout:"
+msgstr ""
+
+#: ws-youtube-subscribe-button.php:138
+msgid "Button"
+msgstr ""
+
+#: ws-youtube-subscribe-button.php:139
+msgid "Full"
+msgstr ""
+
+#: ws-youtube-subscribe-button.php:145
+msgid "Theme:"
+msgstr ""
+
+#: ws-youtube-subscribe-button.php:147
+msgid "Light"
+msgstr ""
+
+#: ws-youtube-subscribe-button.php:148
+msgid "Dark"
+msgstr ""
+
+#: ws-youtube-subscribe-button.php:154
+msgid "Subscriber count:"
+msgstr ""
+
+#: ws-youtube-subscribe-button.php:156
+msgid "Yes"
+msgstr ""
+
+#: ws-youtube-subscribe-button.php:157
+msgid "No"
+msgstr ""
